@@ -1,0 +1,6 @@
+env: "local"
+storage_path: "storage/sso.db"
+token_ttl: 1h
+rpc:
+  port: 44044
+  timeout: 10m
